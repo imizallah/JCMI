@@ -1,0 +1,14 @@
+{
+  "name": "coming",
+  "version": "1.0.0",
+  "description": "Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Imizallah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
